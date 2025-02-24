@@ -1,5 +1,4 @@
 
-
 class Divinity:
     def __init__(self, being):
         self.being = being
